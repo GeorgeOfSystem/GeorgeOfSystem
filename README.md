@@ -12,10 +12,10 @@ I thrive in building **high-performing teams**, shaping **engineering practices*
 ---
 
 ## 🛠 Tools & Tech
-- **Languages & Frameworks:** .NET, Typescript, React, Angular  
+- **Languages & Frameworks:** .NET, Typescript, React, Angular, R  
 - **DevOps & Cloud:** Docker, Kubernetes, CI/CD, Agile frameworks  
 - **Databases:** MySQL, PostgreSQL, MongoDB  
-- **Version Control & Collaboration:** Git  
+- **Version Control & Collaboration:** Git, Azure, GitLab  
 - **Other Skills:** Data analytics libraries, UI/UX design, and more — check my [online CV](https://jorge-lopez-cv.web.app/)
 
 ---
